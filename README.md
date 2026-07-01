@@ -1,4 +1,4 @@
-# PrintEase — Online Xerox
+g# PrintEase — Online Xerox
 
 PrintEase is a full-stack web application that modernizes the document printing experience. Users upload their files online, configure print preferences, and collect their printouts from a local print center — eliminating the need to physically carry storage devices or wait in queues.
 
@@ -102,7 +102,7 @@ npm -v
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Harshitjhamb/printease.git
+   git clone https://github.com/Kartik-1818/PrintEasy
    cd printease
    ```
 
