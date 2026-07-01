@@ -103,7 +103,6 @@ npm -v
 
    ```bash
    git clone https://github.com/Kartik-1818/PrintEasy
-   cd printease
    ```
 
 2. Install all dependencies for the root, client, and server workspaces:
