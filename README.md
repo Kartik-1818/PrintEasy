@@ -61,7 +61,7 @@ Language composition: JavaScript 99.5%, Other 0.5%
 ## Project Structure
 
 ```
-printease/
+printeasy/
 ├── client/                  # React frontend application
 │   ├── public/              # Static assets
 │   ├── src/                 # Components, pages, and application logic
