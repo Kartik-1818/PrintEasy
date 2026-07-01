@@ -1,4 +1,4 @@
-g# PrintEase — Online Xerox
+# PrintEase — Online Xerox
 
 PrintEase is a full-stack web application that modernizes the document printing experience. Users upload their files online, configure print preferences, and collect their printouts from a local print center — eliminating the need to physically carry storage devices or wait in queues.
 
