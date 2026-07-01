@@ -221,17 +221,17 @@ This project follows the [Conventional Commits](https://www.conventionalcommits.
 
 ## License
 
-This project is private, as defined in the root `package.json`. All rights reserved by [Harshitjhamb](https://github.com/Harshitjhamb).
+This project is private, as defined in the root `package.json`. All rights reserved by [KartikJhamb](https://github.com/Kartik-1818).
 
 ---
 
 ## Contact
 
-**Harshit Jhamb**
+**Kartik Jhamb**
 
 - Email: kartikjhamb29@gmail.com
-- GitHub: https://github.com/kartikjhamb
+- GitHub: https://github.com/Kartik-1818
 
 
-For bug reports or feature requests, please open an issue at https://github.com/Harshitjhamb/printease/issues.
+For bug reports or feature requests, please open an issue at https://github.com/Kartik-1818/PrintEasy/issues.
 # PrintEasy
