@@ -229,8 +229,9 @@ This project is private, as defined in the root `package.json`. All rights reser
 
 **Harshit Jhamb**
 
-- Email: harshtihjamb03@gmail.com
-- GitHub: https://github.com/Harshitjhamb
+- Email: kartikjhamb29@gmail.com
+- GitHub: https://github.com/kartikjhamb
+
 
 For bug reports or feature requests, please open an issue at https://github.com/Harshitjhamb/printease/issues.
 # PrintEasy
